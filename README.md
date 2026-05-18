@@ -41,7 +41,7 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone [https://github.com/Aytac-Karimoffa/My-Personal-Notes.git](https://github.com/Aytac-Karimoffa/My-Personal-Notes.git)
+   git clone [https://github.com/Aytac-Karimoffa/My-Personal-Notes.git]
 
 <!--
 **Aytac-Karimoffa/Aytac-Karimoffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
